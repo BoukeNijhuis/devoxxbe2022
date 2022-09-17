@@ -4,7 +4,6 @@
 - Remove remote debugging configurations (press OK!)
 - Zoom in in the terminal
 - Start the jar in a terminal (java -cp target/classes devoxxbe.HelloWorld) -> check if it says Hello!
-- Check if the message variable is there in the main method!
 - Grab some water
 - Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
 - Open the first three "slides" (0, 1 & HelloWorld.java)
