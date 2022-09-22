@@ -3,4 +3,4 @@ Evaluating expressions
 - Quick Evaluate Expression
 - Evaluate Expression
 - Side Effects!
-- Stream Debugger
+- Stream Debugger (do NOT show the conventional debugging part)

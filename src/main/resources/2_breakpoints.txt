@@ -1,7 +1,4 @@
 Advanced breakpoints
 
-- Line
 - Options
     - Logging (show shift-gutter clicking as well)
-- Move
-- Restore
